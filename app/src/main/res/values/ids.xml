@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tab_recents" type="id" />
+    <item name="tab_favorites" type="id" />
+    <item name="tab_nearby" type="id" />
+    <item name="tab_friends" type="id" />
+    <item name="tab_food" type="id" />
+</resources>
